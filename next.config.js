@@ -7,7 +7,6 @@ const nextConfig = {
         hostname: "avatars.githubusercontent.com",
       },
     ],
-    domains: ["upload.wikimedia.org"],
   },
 };
 
